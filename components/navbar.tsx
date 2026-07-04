@@ -28,7 +28,7 @@ export default function Navbar() {
             <ThemeToggle />
             <Button variant="ghost" asChild>
               <Link
-                href="https://github.com"
+                href="https://github.com/Boboinna/room-color-palette-generator"
                 target="_blank"
                 rel="noopener noreferrer"
               >
